@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2019-06-27T08:14:36Z" finished-at="2019-06-27T08:14:36Z">
+    <groups>
+      <group name="InsertionOrder112">
+        <method signature="JavaExample.ioPreprintPandDSpec(java.util.Map)[pri:0, instance:com.tribune.adit2.test.JavaExample@5056dfcb]" name="ioPreprintPandDSpec" class="com.tribune.adit2.test.JavaExample"/>
+      </group> <!-- InsertionOrder112 -->
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2019-06-27T08:14:36Z" finished-at="2019-06-27T08:14:36Z">
+      <class name="com.tribune.adit2.test.JavaExample">
+        <test-method status="PASS" signature="ioPreprintPandDSpec(java.util.Map)[pri:0, instance:com.tribune.adit2.test.JavaExample@5056dfcb]" name="ioPreprintPandDSpec" duration-ms="14" started-at="2019-06-27T01:14:36Z" data-provider="userData" finished-at="2019-06-27T01:14:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Zip=14305, zipCode=23188, ErrWithoutAdType=Ad Type is required for insertion, NoOrderlinePackageError=There is no insertion to create a package, Email=abc@xyz.com, CUNumber=CU00380012, ErrRequiredCreativeLoc=P&D specification: CreativeLocation for insertion  is required, ErrWithoutAdSize=Ad size is required for insertion, ErrWithoutPandDSpec=P&D specification for insertion  must be filled in, CustomerName2=Suraj Mehta, CustomerName1=Macy's (LAT), BillToCreditStatus=Can't submit order due to Bill To customer credit status, ErrWithoutProduct=Product is required for insertion, CustomerName4=Group 7 House Account, CustomerName3=Kit Jackson, MandatoryVersionID=Version is required for insertion, CustomerName5=Daily Press Test Account, MandatoryPO#SpecificBillTo=This Bill To customer requires a Purchase Order Number. please Enter a PO#., MandatoryDistrb/BilledQty=Distribution/Billed Quantity is required for insertion, MandatoryInsertion=Insertion is required, ErrRequiredFold=P&D specification: Fold for insertion  is required, MandatorySoldTo=Sold To customer is required, MandatoryPositionTemp=Templated Position is required for insertion, ErrWithoutZone=Zone is required for insertion, ContactName1=Xavier's and Co., MandatoryPrimarySalesPerson=One and only one primary sales person is required, CustomerName=Test 1107, Additional Email=abc23@xy34.com, ProspectBillToCustNewOrder=Can't submit order with a prospect Bill To customer. Replace Bill To customer with an actual customer, MandatorySalesPerson=Sales person is required, Street2Address=3909 Witmer Road., ErrWithoutSection=Section is required for insertion, City=Niagara Falls, StreetAddress=124 Main St, ClassCode=50150, State=NY, PhoneNumber=1234567890, MMTag=Demo Tag, Fax=987654321, MandatoryBillTo=Bill To customer is required, ProspectSoldToCustNewOrder=Can't submit order with a prospect Sold To customer. Replace Sold To customer with an actual customer}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ioPreprintPandDSpec -->
+      </class> <!-- com.tribune.adit2.test.JavaExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

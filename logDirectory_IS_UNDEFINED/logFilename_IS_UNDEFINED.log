@@ -1,0 +1,236 @@
+2015-11-01 20:59:38,586 [main] INFO  Tribune_ADIT2.0 - Suite Started
+2015-11-01 20:59:38,736 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Started
+2015-11-01 20:59:46,011 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Inside updateTestResult
+2015-11-01 20:59:46,012 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Webdriver is initiated
+2015-11-01 20:59:46,012 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - null value in entry: url=null
+2015-11-01 20:59:46,013 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Failed
+2015-11-01 20:59:46,014 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - test time: 6683
+2015-11-01 20:59:46,017 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Started
+2015-11-01 20:59:50,348 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Inside updateTestResult
+2015-11-01 20:59:50,349 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Webdriver is initiated
+2015-11-01 20:59:50,349 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - null value in entry: url=null
+2015-11-01 20:59:50,350 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Failed
+2015-11-01 20:59:50,350 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - test time: 4031
+2015-11-01 20:59:50,351 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Started
+2015-11-01 20:59:54,612 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Inside updateTestResult
+2015-11-01 20:59:54,612 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Webdriver is initiated
+2015-11-01 20:59:54,612 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - null value in entry: url=null
+2015-11-01 20:59:54,612 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Failed
+2015-11-01 20:59:54,612 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - test time: 3980
+2015-11-01 20:59:54,614 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Started
+2015-11-01 20:59:58,467 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Inside updateTestResult
+2015-11-01 20:59:58,467 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Webdriver is initiated
+2015-11-01 20:59:58,467 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - null value in entry: url=null
+2015-11-01 20:59:58,467 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Failed
+2015-11-01 20:59:58,468 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - test time: 3560
+2015-11-01 20:59:58,468 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Started
+2015-11-01 21:00:02,246 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Inside updateTestResult
+2015-11-01 21:00:02,246 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Webdriver is initiated
+2015-11-01 21:00:02,246 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - null value in entry: url=null
+2015-11-01 21:00:02,246 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Failed
+2015-11-01 21:00:02,247 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - test time: 3447
+2015-11-01 21:00:02,247 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Started
+2015-11-01 21:00:06,123 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Inside updateTestResult
+2015-11-01 21:00:06,124 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Webdriver is initiated
+2015-11-01 21:00:06,124 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - null value in entry: url=null
+2015-11-01 21:00:06,124 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Failed
+2015-11-01 21:00:06,124 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - test time: 3483
+2015-11-01 21:00:06,125 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Started
+2015-11-01 21:00:09,984 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Inside updateTestResult
+2015-11-01 21:00:09,984 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Webdriver is initiated
+2015-11-01 21:00:09,985 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - null value in entry: url=null
+2015-11-01 21:00:09,989 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Failed
+2015-11-01 21:00:09,989 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - test time: 3565
+2015-11-01 21:00:09,990 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Started
+2015-11-01 21:00:13,740 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Inside updateTestResult
+2015-11-01 21:00:13,741 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Webdriver is initiated
+2015-11-01 21:00:13,741 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - null value in entry: url=null
+2015-11-01 21:00:13,741 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Failed
+2015-11-01 21:00:13,741 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - test time: 3474
+2015-11-01 21:00:13,743 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Started
+2015-11-01 21:00:17,458 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Inside updateTestResult
+2015-11-01 21:00:17,458 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Webdriver is initiated
+2015-11-01 21:00:17,458 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - null value in entry: url=null
+2015-11-01 21:00:17,459 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Failed
+2015-11-01 21:00:17,459 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - test time: 3441
+2015-11-01 21:00:17,460 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Started
+2015-11-01 21:00:21,353 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Inside updateTestResult
+2015-11-01 21:00:21,354 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Webdriver is initiated
+2015-11-01 21:00:21,354 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - null value in entry: url=null
+2015-11-01 21:00:21,354 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Failed
+2015-11-01 21:00:21,354 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - test time: 3456
+2015-11-01 21:00:21,355 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Started
+2015-11-01 21:00:25,548 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Inside updateTestResult
+2015-11-01 21:00:25,549 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Webdriver is initiated
+2015-11-01 21:00:25,550 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - null value in entry: url=null
+2015-11-01 21:00:25,550 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Failed
+2015-11-01 21:00:25,550 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - test time: 3944
+2015-11-01 21:00:25,550 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Started
+2015-11-01 21:00:29,764 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Inside updateTestResult
+2015-11-01 21:00:29,765 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Webdriver is initiated
+2015-11-01 21:00:29,765 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - null value in entry: url=null
+2015-11-01 21:00:29,765 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Failed
+2015-11-01 21:00:29,765 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - test time: 3894
+2015-11-01 21:00:29,766 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Started
+2015-11-01 21:00:33,632 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Inside updateTestResult
+2015-11-01 21:00:33,633 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Webdriver is initiated
+2015-11-01 21:00:33,633 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - null value in entry: url=null
+2015-11-01 21:00:33,633 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Failed
+2015-11-01 21:00:33,633 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - test time: 3602
+2015-11-01 21:00:33,634 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Started
+2015-11-01 21:00:37,312 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Inside updateTestResult
+2015-11-01 21:00:37,312 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Webdriver is initiated
+2015-11-01 21:00:37,313 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - null value in entry: url=null
+2015-11-01 21:00:37,313 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Failed
+2015-11-01 21:00:37,313 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - test time: 3348
+2015-11-01 21:00:37,314 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Started
+2015-11-01 21:00:41,057 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Inside updateTestResult
+2015-11-01 21:00:41,057 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Webdriver is initiated
+2015-11-01 21:00:41,058 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - null value in entry: url=null
+2015-11-01 21:00:41,058 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Failed
+2015-11-01 21:00:41,058 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - test time: 3451
+2015-11-01 21:00:41,059 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Started
+2015-11-01 21:00:44,748 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Inside updateTestResult
+2015-11-01 21:00:44,749 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Webdriver is initiated
+2015-11-01 21:00:44,749 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - null value in entry: url=null
+2015-11-01 21:00:44,749 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Failed
+2015-11-01 21:00:44,749 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - test time: 3401
+2015-11-01 21:00:44,750 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Started
+2015-11-01 21:00:48,458 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Inside updateTestResult
+2015-11-01 21:00:48,458 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Webdriver is initiated
+2015-11-01 21:00:48,458 [pool-1-thread-1] ERROR com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - null value in entry: url=null
+2015-11-01 21:00:48,458 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Failed
+2015-11-01 21:00:48,459 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - test time: 3462
+2015-11-01 21:00:48,513 [main] INFO  Tribune_ADIT2.0 - Suite Completed
+2015-11-01 21:02:00,031 [main] INFO  Tribune_ADIT2.0 - Suite Started
+2015-11-01 21:02:00,168 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Started
+2015-11-01 21:02:04,983 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Inside updateTestResult
+2015-11-01 21:02:04,984 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Webdriver is initiated
+2015-11-01 21:02:04,985 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - null value in entry: url=null
+2015-11-01 21:02:04,985 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Failed
+2015-11-01 21:02:04,985 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - test time: 4317
+2015-11-01 21:02:04,987 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Started
+2015-11-01 21:02:09,073 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Inside updateTestResult
+2015-11-01 21:02:09,077 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Webdriver is initiated
+2015-11-01 21:02:09,077 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - null value in entry: url=null
+2015-11-01 21:02:09,079 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Failed
+2015-11-01 21:02:09,080 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - test time: 3845
+2015-11-01 21:02:09,082 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Started
+2015-11-01 21:02:13,270 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Inside updateTestResult
+2015-11-01 21:02:13,270 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Webdriver is initiated
+2015-11-01 21:02:13,270 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - null value in entry: url=null
+2015-11-01 21:02:13,270 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Failed
+2015-11-01 21:02:13,271 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - test time: 3896
+2015-11-01 21:02:13,271 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Started
+2015-11-01 21:02:17,406 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Inside updateTestResult
+2015-11-01 21:02:17,406 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Webdriver is initiated
+2015-11-01 21:02:17,407 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - null value in entry: url=null
+2015-11-01 21:02:17,407 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Failed
+2015-11-01 21:02:17,407 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - test time: 3886
+2015-11-01 21:02:17,408 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Started
+2015-11-01 21:02:21,634 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Inside updateTestResult
+2015-11-01 21:02:21,635 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Webdriver is initiated
+2015-11-01 21:02:21,635 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - null value in entry: url=null
+2015-11-01 21:02:21,635 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Failed
+2015-11-01 21:02:21,635 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - test time: 3917
+2015-11-01 21:02:21,636 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Started
+2015-11-01 21:02:25,801 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Inside updateTestResult
+2015-11-01 21:02:25,801 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Webdriver is initiated
+2015-11-01 21:02:25,801 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - null value in entry: url=null
+2015-11-01 21:02:25,801 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - Failed
+2015-11-01 21:02:25,801 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCreditStatusTest.customerSearchByCreditStatus - test time: 3887
+2015-11-01 21:02:25,803 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Started
+2015-11-01 21:02:29,690 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Inside updateTestResult
+2015-11-01 21:02:29,691 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Webdriver is initiated
+2015-11-01 21:02:29,692 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - null value in entry: url=null
+2015-11-01 21:02:29,692 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - Failed
+2015-11-01 21:02:29,692 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCustomerNameTest.customerSearchByName - test time: 3670
+2015-11-01 21:02:29,692 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Started
+2015-11-01 21:02:33,757 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Inside updateTestResult
+2015-11-01 21:02:33,757 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Webdriver is initiated
+2015-11-01 21:02:33,758 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - null value in entry: url=null
+2015-11-01 21:02:33,758 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - Failed
+2015-11-01 21:02:33,758 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByRiskCodeTest.customerSearchByRiskCode - test time: 3818
+2015-11-01 21:02:33,759 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Started
+2015-11-01 21:02:37,672 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Inside updateTestResult
+2015-11-01 21:02:37,673 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Webdriver is initiated
+2015-11-01 21:02:37,673 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - null value in entry: url=null
+2015-11-01 21:02:37,673 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - Failed
+2015-11-01 21:02:37,673 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomersSearchByBUTest.customerSearchByBU - test time: 3550
+2015-11-01 21:02:37,675 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Started
+2015-11-01 21:02:41,664 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Inside updateTestResult
+2015-11-01 21:02:41,665 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Webdriver is initiated
+2015-11-01 21:02:41,665 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - null value in entry: url=null
+2015-11-01 21:02:41,665 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - Failed
+2015-11-01 21:02:41,665 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchBasicTest.performBasicOrderSearch - test time: 3697
+2015-11-01 21:02:41,665 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Started
+2015-11-01 21:02:45,543 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Inside updateTestResult
+2015-11-01 21:02:45,543 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Webdriver is initiated
+2015-11-01 21:02:45,543 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - null value in entry: url=null
+2015-11-01 21:02:45,544 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - Failed
+2015-11-01 21:02:45,544 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByBUTest.performOrderSearchByBU - test time: 3644
+2015-11-01 21:02:45,544 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Started
+2015-11-01 21:02:49,361 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Inside updateTestResult
+2015-11-01 21:02:49,362 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Webdriver is initiated
+2015-11-01 21:02:49,362 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - null value in entry: url=null
+2015-11-01 21:02:49,362 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - Failed
+2015-11-01 21:02:49,362 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCategoryTest.performOrderSearchBySubCategory - test time: 3577
+2015-11-01 21:02:49,363 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Started
+2015-11-01 21:02:53,187 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Inside updateTestResult
+2015-11-01 21:02:53,188 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Webdriver is initiated
+2015-11-01 21:02:53,188 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - null value in entry: url=null
+2015-11-01 21:02:53,188 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - Failed
+2015-11-01 21:02:53,188 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByCustomerNameTest.performOrderSearchByCustomer - test time: 3425
+2015-11-01 21:02:53,189 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Started
+2015-11-01 21:02:57,221 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Inside updateTestResult
+2015-11-01 21:02:57,221 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Webdriver is initiated
+2015-11-01 21:02:57,221 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - null value in entry: url=null
+2015-11-01 21:02:57,221 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - Failed
+2015-11-01 21:02:57,221 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByOrderRoutingTest.performOrderSearchByOrderRouting - test time: 3645
+2015-11-01 21:02:57,222 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Started
+2015-11-01 21:03:01,172 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Inside updateTestResult
+2015-11-01 21:03:01,172 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Webdriver is initiated
+2015-11-01 21:03:01,172 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - null value in entry: url=null
+2015-11-01 21:03:01,172 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - Failed
+2015-11-01 21:03:01,172 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByProductDetailsTest.performOrderSearchByProduct - test time: 3635
+2015-11-01 21:03:01,173 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Started
+2015-11-01 21:03:04,999 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Inside updateTestResult
+2015-11-01 21:03:04,999 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Webdriver is initiated
+2015-11-01 21:03:05,000 [pool-1-thread-1] ERROR com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - null value in entry: url=null
+2015-11-01 21:03:05,000 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - Failed
+2015-11-01 21:03:05,000 [pool-1-thread-1] INFO  com.tribune.adit2.test.OrderSearchByStatusTest.performOrderSearchByStatus - test time: 3539
+2015-11-01 21:03:05,001 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Started
+2015-11-01 21:03:08,935 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Inside updateTestResult
+2015-11-01 21:03:08,935 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Webdriver is initiated
+2015-11-01 21:03:08,935 [pool-1-thread-1] ERROR com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - null value in entry: url=null
+2015-11-01 21:03:08,936 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - Failed
+2015-11-01 21:03:08,936 [pool-1-thread-1] INFO  com.tribune.adit2.test.ViewCustomerDetailsTest.viewCustomerDetails - test time: 3586
+2015-11-01 21:03:08,979 [main] INFO  Tribune_ADIT2.0 - Suite Completed
+2015-11-01 22:31:46,889 [main] INFO  Tribune_ADIT2.0 - Suite Started
+2015-11-01 22:31:47,034 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Started
+2015-11-01 22:31:52,653 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Inside updateTestResult
+2015-11-01 22:31:52,655 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Webdriver is initiated
+2015-11-01 22:31:52,657 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - null value in entry: url=null
+2015-11-01 22:31:52,657 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Failed
+2015-11-01 22:31:52,657 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - test time: 5193
+2015-11-01 22:31:52,659 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Started
+2015-11-01 22:31:56,486 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Inside updateTestResult
+2015-11-01 22:31:56,486 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Webdriver is initiated
+2015-11-01 22:31:56,486 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - null value in entry: url=null
+2015-11-01 22:31:56,487 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - Failed
+2015-11-01 22:31:56,487 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileEditDeleteAddressTest.editCustomerAddress - test time: 3548
+2015-11-01 22:31:56,489 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Started
+2015-11-01 22:32:00,294 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Inside updateTestResult
+2015-11-01 22:32:00,294 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Webdriver is initiated
+2015-11-01 22:32:00,294 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - null value in entry: url=null
+2015-11-01 22:32:00,294 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - Failed
+2015-11-01 22:32:00,294 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByAccountTypeTest.customerSearchByAccountType - test time: 3449
+2015-11-01 22:32:00,295 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Started
+2015-11-01 22:32:04,100 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Inside updateTestResult
+2015-11-01 22:32:04,101 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Webdriver is initiated
+2015-11-01 22:32:04,101 [pool-1-thread-1] ERROR com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - null value in entry: url=null
+2015-11-01 22:32:04,101 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - Failed
+2015-11-01 22:32:04,101 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByBillingTypeTest.customerSearchByBillingType - test time: 3493
+2015-11-01 22:32:04,102 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerSearchByCatAndSubCatTest.customerSearchByCatAndSubCat - Started
+2015-11-01 22:35:38,590 [main] INFO  Tribune_ADIT2.0 - Suite Started
+2015-11-01 22:35:38,721 [pool-1-thread-1] INFO  com.tribune.adit2.test.CustomerProfileAddAddressTest.addCustomerAddress - Started

@@ -1,0 +1,407 @@
+package com.tribune.adit2.OrderEntry;
+
+import java.util.Iterator;
+import java.util.List;
+import java.util.Properties;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+import com.tribune.adit2.testng.Logger;
+import com.tribune.adit2.util.TribuneUtils;
+
+public class ClassifiedOrderOptions {
+	
+	@FindBy(id = "BusinessUnitId")
+	public WebElement businessUnitDrpDwn;
+	
+	@FindBy(xpath = ".//*[@id='bu.id']")
+	public WebElement ClassifiedBUDrpDwn;
+	
+	@FindBy(xpath = ".//*[@id='sc.id']")
+	public WebElement ClassifiedSubcategoryDrpDwn;
+	
+	@FindBy(xpath = ".//*[@id='products.Id']")
+	public WebElement ClassifiedProductDrpDwn;
+	
+	@FindBy(xpath = ".//*[@id='pckDtls.Id']")
+	public WebElement ClassifiedPackageDrpDwn;
+	
+	@FindBy(xpath = ".//*[@id='clsCode.Id']")
+	public WebElement ClassifiedClassCodeDrpDwn;
+	
+	@FindBy(xpath = ".//*[@id='package-settings']/div/div[3]/div[1]/div/div[1]/table/thead/tr[1]/th[3]")
+	public WebElement NextMnth;
+	
+	@FindBy(xpath = ".//*[@id='package-settings']/div/div[3]/div[1]/div/div[1]/table/tbody/tr[2]/td[4]")
+	public WebElement Date;
+	
+	@FindBy(xpath = ".//*[@id='order-detail-page']/div[2]/div[3]/form/div[1]/div/button[1]")
+	public WebElement ApplyBtn;
+	
+	@FindBy(xpath = ".//*[@id='order-detail-page']/div[2]/div[3]/div[1]/div/div[3]/ul/li[3]/a")
+	public WebElement EditAdBtn;
+	
+	@FindBy(xpath = ".//*[@id='designAd']/div[1]/a/span")
+	public WebElement UploadAdLink;
+	
+	@FindBy(xpath = ".//*[@id='newCSRUploaderLinkButton']")
+	public WebElement UploadAdBtn;
+	
+	
+	
+	
+	private WebDriver driver;
+	
+	Properties properties = TribuneUtils.readProperties();
+	
+	public ClassifiedOrderOptions(WebDriver driver)
+	{
+		this.driver = driver;
+	}
+	
+//Code to select business Unit
+	public void selectBU(String BU) throws Exception
+	  {
+		  try
+		  {
+			  if (businessUnitDrpDwn.isDisplayed())
+			  {
+				  businessUnitDrpDwn.click();
+				  Select valueFromBU = new Select(businessUnitDrpDwn);
+			      List<WebElement> listOfValuesBU = valueFromBU.getOptions();
+			      if(listOfValuesBU.size() !=0)
+				      {
+				    	 valueFromBU.selectByVisibleText(properties.getProperty(BU).toString());
+				         Logger.info(properties.getProperty(BU)+ " business Unit is selected"); 
+				      }
+			      else
+			      {
+			    	  Logger.info("drop down is empty");
+			      }
+			  }
+			  else
+			  {
+				  Logger.info("Business Unit drop down is not displayed");
+				  throw new NoSuchElementException("Business Unit drop down is not displayed");
+			  }
+			
+		  }
+		  catch(Exception e)
+		  {
+			  Logger.error(e.getMessage());
+			  throw e;
+		  } 
+	  }
+
+	//Code to select package business Unit
+	// Designed by rmukhopadhyay
+		public void selectPackageBU(String BU) throws Exception
+		  {
+			  try
+			  {
+				  if (ClassifiedBUDrpDwn.isDisplayed())
+				  {
+					  ClassifiedBUDrpDwn.click();
+					  Select valueFromBU = new Select(ClassifiedBUDrpDwn);
+				      List<WebElement> listOfValuesBU = valueFromBU.getOptions();
+				      if(listOfValuesBU.size() !=0)
+					      {
+					    	 valueFromBU.selectByVisibleText(properties.getProperty(BU).toString());
+					         Logger.info(properties.getProperty(BU)+ "Package business Unit is selected"); 
+					      }
+				      else
+				      {
+				    	  Logger.info("drop down is empty");
+				      }
+				  }
+				  else
+				  {
+					  Logger.info("Package Business Unit drop down is not displayed");
+					  throw new NoSuchElementException("Package Business Unit drop down is not displayed");
+				  }
+				
+			  }
+			  catch(Exception e)
+			  {
+				  Logger.error(e.getMessage());
+				  throw e;
+			  } 
+		  }
+		
+		//Code to select package Subcategory
+		// Designed by rmukhopadhyay
+			public void selectClassifiedSubcategoryDrpDwn(String subcategory) throws Exception
+			  {				
+				  try
+				  {
+					  if (ClassifiedSubcategoryDrpDwn.isDisplayed())
+					  {
+						  ClassifiedSubcategoryDrpDwn.click();
+						  Select valueFromBU = new Select(ClassifiedSubcategoryDrpDwn);
+					      List<WebElement> listOfValuesBU = valueFromBU.getOptions();
+					      if(listOfValuesBU.size() !=0)
+						      {					    	
+						    	 //valueFromBU.selectByVisibleText(properties.getProperty(subcategory).toString());
+						    	 //valueFromBU.selectByVisibleText(subcategory);
+					    	  valueFromBU.selectByIndex(1);
+						         Logger.info(properties.getProperty(subcategory)+ "Package subcategory is selected"); 
+						      }
+					      else
+					      {
+					    	  Logger.info("drop down is empty");
+					      }
+					  }
+					  else
+					  {
+						  Logger.info("Package subcategory drop down is not displayed");
+						  throw new NoSuchElementException("Package subcategory drop down is not displayed");
+					  }
+					
+				  }
+				  catch(Exception e)
+				  {
+					  Logger.info("Inside exception");
+					  Logger.error(e.getMessage());
+					  throw e;
+				  } 
+			  }
+			
+			
+			//Code to select package Product
+			// Designed by rmukhopadhyay
+				public void selectClassifiedProductDrpDwn(String product) throws Exception
+				  {
+					  try
+					  {
+						  if (ClassifiedProductDrpDwn.isDisplayed())
+						  {
+							  ClassifiedProductDrpDwn.click();
+							  Select valueFromBU = new Select(ClassifiedProductDrpDwn);
+						      List<WebElement> listOfValuesBU = valueFromBU.getOptions();
+						      if(listOfValuesBU.size() !=0)
+							      {
+							    	 //valueFromBU.selectByVisibleText(properties.getProperty(product).toString());
+						    	  valueFromBU.selectByIndex(1);
+							         Logger.info(properties.getProperty(product)+ "Package product is selected"); 
+							      }
+						      else
+						      {
+						    	  Logger.info("drop down is empty");
+						      }
+						  }
+						  else
+						  {
+							  Logger.info("Package product drop down is not displayed");
+							  throw new NoSuchElementException("Package product drop down is not displayed");
+						  }
+						
+					  }
+					  catch(Exception e)
+					  {
+						  Logger.error(e.getMessage());
+						  throw e;
+					  } 
+				  }
+				
+				//Code to select package Product
+				// Designed by rmukhopadhyay
+					public void selectClassifiedPackage(String packg) throws Exception
+					  {
+						  try
+						  {
+							  if (ClassifiedPackageDrpDwn.isDisplayed())
+							  {
+								  ClassifiedPackageDrpDwn.click();
+								  Select valueFromBU = new Select(ClassifiedPackageDrpDwn);
+							      List<WebElement> listOfValuesBU = valueFromBU.getOptions();
+							      if(listOfValuesBU.size() !=0)
+								      {
+								    	 //valueFromBU.selectByVisibleText(properties.getProperty(packg).toString());
+								    	 valueFromBU.selectByIndex(1);
+								         Logger.info(properties.getProperty(packg)+ "Package is selected"); 
+								      }
+							      else
+							      {
+							    	  Logger.info("drop down is empty");
+							      }
+							  }
+							  else
+							  {
+								  Logger.info("Package drop down is not displayed");
+								  throw new NoSuchElementException("Package drop down is not displayed");
+							  }
+							
+						  }
+						  catch(Exception e)
+						  {
+							  Logger.error(e.getMessage());
+							  throw e;
+						  } 
+					  }
+					
+					//Code to select package Product
+					// Designed by rmukhopadhyay
+						public void selectClassifiedClassCode(String classcode) throws Exception
+						  {
+							  try
+							  {
+								  if (ClassifiedClassCodeDrpDwn.isDisplayed())
+								  {
+									  ClassifiedClassCodeDrpDwn.click();
+									  Select valueFromBU = new Select(ClassifiedClassCodeDrpDwn);
+								      List<WebElement> listOfValuesBU = valueFromBU.getOptions();
+								      if(listOfValuesBU.size() !=0)
+									      {
+									    	 //valueFromBU.selectByVisibleText(properties.getProperty(classcode).toString());
+								    	  valueFromBU.selectByIndex(1);
+									         Logger.info(properties.getProperty(classcode)+ "Classcode is selected"); 
+									      }
+								      else
+								      {
+								    	  Logger.info("drop down is empty");
+								      }
+								  }
+								  else
+								  {
+									  Logger.info("Classcode drop down is not displayed");
+									  throw new NoSuchElementException("classcode drop down is not displayed");
+								  }
+								
+							  }
+							  catch(Exception e)
+							  {
+								  Logger.error(e.getMessage());
+								  throw e;
+							  } 
+						  }
+	
+		//Code to select package business Unit
+		// Designed by rmukhopadhyay
+			public void selectDate() throws Exception
+			  {
+				  try
+				  {
+					  if (NextMnth.isDisplayed())
+					  {
+						  ClassifiedBUDrpDwn.click();
+						  
+						  WebElement date= driver.findElement(By.xpath(""));
+						  Date.click();
+					  }
+					  else
+					  {
+						  Logger.info("Next Month link is not displayed");
+						  throw new NoSuchElementException("Next Month link is not displayed");
+					  }
+					
+				  }
+				  catch(Exception e)
+				  {
+					  Logger.error(e.getMessage());
+					  throw e;
+				  } 
+			  }
+			
+			//Code to select package business Unit
+			// Designed by rmukhopadhyay
+				public void clickApplyBtn() throws Exception
+				  {
+					  try
+					  {
+						  if (ApplyBtn.isDisplayed())
+						  {
+							  ApplyBtn.click();
+							  Logger.info("Apply Button is clicked");
+						  }
+						  else
+						  {
+							  Logger.info("Apply Button is not displayed");
+							  throw new NoSuchElementException("Apply Button is not displayed");
+						  }
+						
+					  }
+					  catch(Exception e)
+					  {
+						  Logger.error(e.getMessage());
+						  throw e;
+					  } 
+				  }
+
+		//Code to select package business Unit
+		// Designed by rmukhopadhyay
+			public void clickEditAdBtn() throws Exception
+			  {
+				  try
+				  {
+					  if (EditAdBtn.isDisplayed())
+					  {
+						  EditAdBtn.click();
+						  Logger.info("Edit Ad Button is clicked");
+					  }
+					  else
+					  {
+						  Logger.info("Edit Ad Button is not displayed");
+						  throw new NoSuchElementException("Edit Ad Button is not displayed");
+					  }
+					
+				  }
+				  catch(Exception e)
+				  {
+					  Logger.error(e.getMessage());
+					  throw e;
+				  } 
+			  }
+			
+			//Code to select package business Unit
+			// Designed by rmukhopadhyay
+				public void uploadAd() throws Exception
+				  {
+					@FindBy(xpath = ".//*[@id='designAd']/div[1]/a/span")
+					public WebElement UploadAdLink;
+					
+					@FindBy(xpath = ".//*[@id='newCSRUploaderLinkButton']")
+					public WebElement UploadAdBtn;
+					
+					
+					  try
+					  {
+						  if (UploadAdLink.isDisplayed())
+						  {
+							  UploadAdLink.click();
+							  Logger.info("Upload Ad Link is clicked");
+						  }
+						  else
+						  {
+							  Logger.info("Upload Ad Link is not displayed");
+							  throw new NoSuchElementException("Upload Ad Link is not displayed");
+						  }
+						  
+						  if (UploadAdBtn.isDisplayed())
+						  {
+							  UploadAdBtn.click();
+							  Logger.info("Upload Ad Button is clicked");
+						  }
+						  else
+						  {
+							  Logger.info("Upload Ad Button is not displayed");
+							  throw new NoSuchElementException("Upload Ad Button is not displayed");
+						  }
+						  
+						  Runtime.getRuntime().exec("D:\Automation\Classified Order.exe");
+						  
+						  Thread.sleep(3000);
+						
+					  }
+					  catch(Exception e)
+					  {
+						  Logger.error(e.getMessage());
+						  throw e;
+					  } 
+				  }
+
+}

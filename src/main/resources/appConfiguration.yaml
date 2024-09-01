@@ -1,0 +1,37 @@
+DEV:
+    SignIn: http://adorders.tribdev.com/access/signin    
+QA:
+    SignIn: http://adorders.tribqa.com/access/signin
+STG:
+    SignIn: http://adorders.tribstage.com/access/signin
+PROD:
+    SignIn: http://adorders.tribpub.com/access/signin
+CLOUD:
+    SignIn: https://adit.tronc.bitwiseazurecluster.info/access/signin
+ADSS:
+    SignIn: http://fcwpaditweb04.usa.tribune.com
+PERF:
+    SignIn: http://adperf.tribqa.com   
+NANT:
+    SignIn: https://adordersx.tribqa.com/access/signin  
+BG:
+    SignIn: http://adorders-erp.tribqa.com/signin        
+RMCS:
+    SignIn: http://adit2.tribqa.com/access/signin    
+ULTM: 
+    SignIn: https://www.ultimatix.net
+WINOS08: 
+    SignIn: http://fcwqaditweb08.usa.tribune.com/access/signin
+WINOS07: 
+    SignIn: http://fcwqaditweb07.usa.tribune.com/access/signin
+BGQA:
+    SignIn: https://adorders-test.tribqa.com/signin 
+BGSTAGE:
+    SignIn: https://adorders-test.tribstage.com/signin  
+WINOS08STG: 
+    SignIn: http://fcwsaditweb08.usa.tribune.com/access/signin 
+BGPROD:
+    SignIn: http://adorders-test.tribpub.com/signin 
+OCIQA:
+    SignIn: https://adordersoci.tribqa.com/signin 
+       

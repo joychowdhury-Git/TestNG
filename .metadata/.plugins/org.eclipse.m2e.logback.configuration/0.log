@@ -1,0 +1,161 @@
+2017-01-28 05:50:49,098 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tribune.adit2:Tribune:0.0.1 @ D:\Automation\Rito Workspace\New folder\pom.xml.
+2017-01-28 05:51:00,768 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tribune/src/main/java
+2017-01-28 05:51:00,769 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Tribune/src/main/resources
+2017-01-28 05:51:00,770 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Tribune/src/test/java
+2017-01-28 05:51:04,970 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 36 sec
+2017-01-28 05:51:25,477 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:51:25,492 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-28 05:51:27,900 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:51:27,901 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-28 05:53:13,648 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:53:13,655 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 05:53:13,658 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:53:13,659 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-28 05:53:34,282 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:53:34,372 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-28 05:53:35,200 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:53:35,200 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-28 05:55:21,298 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:55:21,301 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-28 05:55:21,324 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:55:21,324 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-28 05:55:29,638 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:55:29,641 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-28 05:55:29,680 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 05:55:29,681 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-28 06:57:00,832 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 06:57:00,851 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-28 06:57:00,887 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 06:57:00,887 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-28 06:57:04,857 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 06:57:04,862 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-28 06:57:04,884 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 06:57:04,885 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:09:29,965 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:09:30,053 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:09:33,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:09:33,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:09:56,240 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:09:56,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:09:57,157 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:09:57,158 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:28:33,713 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:28:33,729 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:28:33,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:28:33,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:28:42,184 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:28:42,187 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:28:42,209 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:28:42,210 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:29:53,369 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:29:53,372 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:29:53,396 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:29:53,397 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:30:18,695 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:30:18,698 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:30:18,735 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:30:18,736 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:30:27,669 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:30:27,672 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:30:27,765 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:30:27,765 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:31:54,373 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:31:54,376 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:31:54,520 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:31:54,521 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:32:43,269 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:32:43,272 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:32:43,320 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:32:43,321 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:36:18,720 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:36:18,723 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:36:18,745 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:36:18,746 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:36:36,347 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:36:36,350 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:36:36,372 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:36:36,372 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:36:42,405 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:36:42,410 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:36:42,451 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:36:42,452 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:37:12,246 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:37:12,249 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:37:12,270 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:37:12,271 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:37:31,819 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:37:31,823 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:37:31,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:37:31,867 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:37:57,847 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:37:57,907 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:37:57,948 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:37:57,949 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:38:21,242 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:38:21,245 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:38:21,272 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:38:21,272 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:42:03,277 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:42:03,280 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:42:03,301 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:42:03,301 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:48:19,187 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:48:19,220 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 03:48:19,244 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:48:19,244 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 03:52:11,889 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:52:11,890 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-30 03:52:11,892 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 03:52:11,892 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:06:52,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:06:52,772 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:06:55,311 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:06:55,311 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:06:58,910 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:06:58,921 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:06:59,381 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:06:59,382 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:07:20,193 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:07:20,196 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:07:20,831 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:07:20,831 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:07:31,235 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:07:31,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:07:31,265 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:07:31,266 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:11:14,129 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:11:14,136 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:11:14,160 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:11:14,160 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:17:52,557 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:17:52,560 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:17:52,583 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:17:52,585 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:56:54,933 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:56:54,940 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:56:54,965 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:56:54,965 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 04:59:49,997 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:59:50,000 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 04:59:50,027 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 04:59:50,028 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 05:02:23,614 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:02:23,617 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 05:02:23,639 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:02:23,639 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 05:02:36,797 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:02:36,800 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 05:02:36,822 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:02:36,842 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 05:05:33,193 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:05:33,196 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 05:05:33,219 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:05:33,220 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 05:06:01,334 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:06:01,337 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 05:06:01,359 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:06:01,360 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
+2017-01-30 05:08:50,605 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:08:50,608 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-01-30 05:08:50,694 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 05:08:50,695 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Rito Workspace\New folder\src\test\resources
